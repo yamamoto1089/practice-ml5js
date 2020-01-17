@@ -1,5 +1,6 @@
 # practice-ml5js
 
-yoppaカリキュラム学習用リポジトリ
+yoppaカリキュラム
+ml5.js学習用リポジトリ
 
 https://yoppa.org/mit-mediaart19

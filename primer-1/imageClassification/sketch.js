@@ -1,4 +1,4 @@
-let imageFile = 'images/kitten.jpg'; //画像ファイル名
+let imageFile = 'images/beer.jpg';//画像ファイル名
 let classifier; //画像分類器
 let img; //画像
 let status = ''; //表示テキスト
